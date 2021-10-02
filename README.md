@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tcheemer
-- 👀 I’m interested in architecting cloud solutions for people
+- 👀 I’m interested in architecting well-designed cloud solutions
 - 🌱 I’m currently improving my IAC/Devops skills  for better cloud architecture designs...
 - 💞️ I’m looking to collaborate on Azure cloud infrastructure design projects as well as implementation projects using infrastructure as a code (IAC)...
 - 📫 How to reach me chimaabah@gmail.com
